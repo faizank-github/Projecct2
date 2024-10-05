@@ -1,0 +1,5 @@
+2024-10-05 20:17:28 - User: test@fake.com, Keyword: "sports", Headline: "Fubo TV streaming plans are $30 off for the first month right now", Source: "Yahoo Entertainment"
+2024-10-05 20:17:28 - User: test@fake.com, Keyword: "sports", Headline: "Nike's Next CEO Has One Hell of a Challenge Ahead", Source: "Wired"
+2024-10-05 20:17:28 - User: test@fake.com, Keyword: "sports", Headline: "You Can Now Control All Your Smart Home Devices on Google TV", Source: "Gizmodo.com"
+2024-10-05 20:17:28 - User: test@fake.com, Keyword: "sports", Headline: "Nominate your Unsung Hero for 2024", Source: "BBC News"
+2024-10-05 20:17:28 - User: test@fake.com, Keyword: "sports", Headline: "Apple Watch Series 10 Hands on: Change Is Coming", Source: "Gizmodo.com"
